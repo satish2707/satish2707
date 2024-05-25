@@ -1,7 +1,7 @@
   ![Embedded Devloper ](https://github.com/satish2707/satish2707/assets/121528087/a428b895-534a-4e54-8994-b69dfd93e100)
 
 <h1 align="center">Hi 👋, I'm Satish Kanawade</h1>
-<h3 align="center">A passionate Embedded Software developer from India</h3>
+<h3 align="center">A passionate in Embedded Software developer </h3>
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
