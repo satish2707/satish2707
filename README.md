@@ -1,6 +1,6 @@
-<img align="right" alt="Coding" width="65000" src="https://i.im.ge/2024/05/25/KaucZ6.Embedded-Devloper.png">
+  ![Embedded Devloper ](https://github.com/satish2707/satish2707/assets/121528087/a428b895-534a-4e54-8994-b69dfd93e100)
 
-<<h1 align="center">Hi 👋, I'm Satish Kanawade</h1>
+<h1 align="center">Hi 👋, I'm Satish Kanawade</h1>
 <h3 align="center">A passionate Embedded Software developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
