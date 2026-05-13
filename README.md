@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/satish2707/satish2707/assets/121528087/a428b895-534a-4e54-8994-b69dfd93e100" alt="Embedded Developer Banner" width="100%">
-</p>
+  <img width="3168" height="1344" alt="Gemini_Generated_Image_6jo9e86jo9e86jo9" src="https://github.com/user-attachments/assets/b6d10389-b4c0-4c8d-96da-226d0754acd7" />
 
+</p>
 <h1 align="center">Hi 👋, I'm Satish Kanawade</h1>
 <h3 align="center">Master of Electronics Science | Embedded Software & Firmware Engineer</h3>
 
