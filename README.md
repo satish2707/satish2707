@@ -11,13 +11,7 @@
   <img src="https://img.shields.io/badge/Learning-Embedded%20Linux-green?style=flat-square" alt="Learning">
 </p>
 
----
-
-# Hi, I'm Satish Kanawade 👋
-
 > **Master of Electronics Science | Specializing in Low-Level Device Drivers & Embedded Software/Firmware Development | Zephyr RTOS & FreeRTOS**
-
----
 
 ### 🚀 Professional Focus
 - **Firmware Architecture:** Designing deterministic systems using **Zephyr** and **FreeRTOS**.
