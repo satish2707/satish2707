@@ -19,9 +19,15 @@
 - 🌱 Deep-diving into **Embedded Linux Development** and the **Yocto Project**.
 - 💬 Ask me about: **C/C++, Real-Time Kernels, and Hardware Interfacing.**
 - 📫 Reach me at: **satishkanawade2000@gmail.com**
-
+  
 ---
 
+### 📈 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satish2707&theme=tokyonight" alt="Satish Streak" />
+</p>
+
+---
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
@@ -32,14 +38,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="45" height="45"/>
 </p>
-
----
-
-### 📈 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satish2707&theme=tokyonight" alt="Satish Streak" />
-</p>
----
 
 ### 🤝 Connect with me:
 <p align="left">
