@@ -37,8 +37,11 @@
 
 ### 📈 GitHub Statistics
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=satish2707&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Satish's Stats" height="200" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satish2707&theme=tokyonight&hide_border=true" alt="Satish's Streak" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satish2707&show_icons=true&theme=tokyonight" alt="Satish Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satish2707&theme=tokyonight" alt="Satish Streak" />
 </p>
 ---
 
