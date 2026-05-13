@@ -27,29 +27,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satish2707&theme=tokyonight" alt="Satish Streak" />
 </p>
 
----
-### 🛠️ Languages and Tools
-
-#### 💻 Programming & Operating Systems
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-</p>
-
-#### 🔌 Embedded IDEs & Hardware Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" title="STM32CubeIDE" alt="stm32" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/arduino-1/arduino-1-icon.svg" title="Arduino & Hardware" alt="hardware" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/kicad-pcb/kicad-pcb-icon.svg" title="KiCad PCB Design" alt="kicad" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman API Testing" alt="postman" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="matlab" width="45" height="45"/>
-</p>
-
-> **Core Workflow:** STM32CubeIDE | TI Code Composer Studio (CCS) | IAR Embedded Workbench | KiCad PCB Design
-
 ### 🤝 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/satish-kanawade-902919247/" target="blank">
