@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="3168" height="1344" alt="Gemini_Generated_Image_6jo9e86jo9e86jo9" src="https://github.com/user-attachments/assets/b6d10389-b4c0-4c8d-96da-226d0754acd7" />
-
+<img width="3168" height="1344" alt="Gemini_Generated_Image_mjdwszmjdwszmjdw" src="https://github.com/user-attachments/assets/75e95777-0745-4918-99ac-e2cb924ca204" />
 </p>
 <h1 align="center">Hi 👋, I'm Satish Kanawade</h1>
 <h3 align="center">Master of Electronics Science | Embedded Software & Firmware Engineer</h3>
