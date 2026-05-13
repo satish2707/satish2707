@@ -34,5 +34,4 @@
 </a>
 </p>
 
-<br />
 <p align="center"><i>"Building the bridge between Silicon and Software."</i></p>
