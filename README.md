@@ -13,12 +13,16 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 **Master of Electronics Science** graduate with a passion for high-performance firmware.
-- 🛠️ Currently specializing in **Zephyr RTOS** and **FreeRTOS** applications.
-- 🌱 Deep-diving into **Embedded Linux Development** and the **Yocto Project**.
-- 💬 Ask me about: **C/C++, Real-Time Kernels, and Hardware Interfacing.**
-- 📫 Reach me at: **satishkanawade2000@gmail.com**
+# Hi, I'm Satish Kanawade 👋
+
+> **Master of Electronics Science | Specializing in Low-Level Device Drivers & Embedded Software/Firmware Development | Zephyr RTOS & FreeRTOS**
+
+---
+
+### 🚀 Professional Focus
+- **Firmware Architecture:** Designing deterministic systems using **Zephyr** and **FreeRTOS**.
+- **Hardware Abstraction:** Developing robust **Device Drivers** and HAL for ARM Cortex-M and ESP32.
+- **Next Milestone:** Scaling from MCU to MPU with **Embedded Linux** & **Yocto**.
   
 ---
 
