@@ -2,6 +2,10 @@
   <img width="100%" alt="Satish Kanawade embedded firmware profile banner" src="assets/profile-banner.png" />
 </p>
 
+<p align="center">
+  <img width="160" alt="Satish Kanawade professional profile photo" src="assets/profile-photo.png" />
+</p>
+
 <h1 align="center">Satish Kanawade</h1>
 
 <h3 align="center">Embedded Firmware Engineer | Device Drivers | RTOS | Embedded Linux</h3>
