@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" alt="Satish Kanawade embedded firmware profile banner" src="https://github.com/user-attachments/assets/75e95777-0745-4918-99ac-e2cb924ca204" />
+</p>
+
 <h1 align="center">Satish Kanawade</h1>
 
 <h3 align="center">Embedded Firmware Engineer | Device Drivers | RTOS | Embedded Linux</h3>
